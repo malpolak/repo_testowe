@@ -49,3 +49,5 @@ hello_world()
 hello = dekorator(hello)
 
 hello("Rafał")
+
+print("a")
