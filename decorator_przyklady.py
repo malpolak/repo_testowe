@@ -51,3 +51,5 @@ hello = dekorator(hello)
 hello("Rafał")
 
 print("a")
+
+print("cdsa")
